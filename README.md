@@ -60,8 +60,7 @@ SkillForge Backend is the server-side application for the SkillForge e-learning 
 - `models/` - Mongoose models
 - `config/` - Configuration files (DB)
 
-## Screenshot
- `screenshot-backend.png` 
+
 
 ---
 
