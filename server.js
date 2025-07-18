@@ -8,7 +8,7 @@ const connectDB = require('./config/db');
 const passport = require('./config/passport');
 const { updateStreak } = require('./middleware/streakTracker');
 
-// ✅ Properly named imports
+
 const authRoutes = require('./routes/authRoutes');
 const oauthRoutes = require('./routes/oauthRoutes');
 const courseRoutes = require('./routes/courseRoutes');

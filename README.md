@@ -3,7 +3,7 @@
 ![Project Screenshot](./screenshot-backend.png)
 
 ## About the Project
-SkillForge Backend is the server-side application for the SkillForge e-learning platform. It provides RESTful APIs for user authentication (including OAuth), course management, progress tracking, AI-powered features, and more. The backend is built with Node.js, Express, MongoDB, and integrates with Cloudinary for media storage and Google OAuth for authentication.
+SkillForge Backend is the server-side application for the SkillForge e-learning platform. It provides RESTful APIs for user authentication (including OAuth), course management, progress tracking, AI-powered features, and more. The backend is built with Node.js, Express, MongoDB, and integrates with Google OAuth for authentication.
 
 ## Features
 - User registration and login (JWT-based)
@@ -12,14 +12,12 @@ SkillForge Backend is the server-side application for the SkillForge e-learning 
 - Course creation, management, and enrollment
 - Progress tracking and streaks
 - AI-powered features (Gemini API)
-- Cloudinary integration for file uploads
 
 ## Getting Started
 
 ### Prerequisites
 - Node.js (v16+ recommended)
 - MongoDB (local or Atlas)
-- Cloudinary account
 - Google Cloud project (for OAuth)
 - Gemini API key (for AI features)
 
@@ -60,7 +58,8 @@ SkillForge Backend is the server-side application for the SkillForge e-learning 
 - `models/` - Mongoose models
 - `config/` - Configuration files (DB)
 
-
+## Screenshot
+`screenshot-backend.png`
 
 ---
 
